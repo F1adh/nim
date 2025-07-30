@@ -137,8 +137,7 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            Focused on creating intuitive and performant web experiences.
-            Bridging the gap between design and development.
+             Junior Developer. Experienced in JavaScript with Node.js and browser environments. Have carried out TDD with both Jest and Supertest, and worked with SQL and PSQL, with HTML, CSS, React, and more. 
           </p>
         </div>
       </motion.section>
